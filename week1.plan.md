@@ -2,9 +2,9 @@
 
 ### Day 1: Fundamentals – Array Traversal & Hashing Basics
 
-- [1. Two Sum](https://leetcode.com/problems/two-sum/) (Array + Hash Map)[1][2]
-- [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (Hash Set/Map)[3][4]
-- [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) (Kadane's Algorithm)[5][6]
+- [x] [1. Two Sum](https://leetcode.com/problems/two-sum/) (Array + Hash Map)[1][2]
+- [x] [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (Hash Set/Map)[3][4]
+- [x] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) (Kadane's Algorithm)[5][6]
 
 ### Day 2: Prefix Sum, Range Queries, and Subarrays
 
