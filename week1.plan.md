@@ -8,15 +8,15 @@
 
 ### Day 2: Prefix Sum, Range Queries, and Subarrays
 
-- [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) (Prefix Sum + Hash Map)[7][8]
-- [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) (Prefix Product)
-- [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) (Simple Prefix Sum)[9]
+- [x] [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) (Prefix Sum + Hash Map)[7][8]
+- [x] [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) (Prefix Product)
+- [x] [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) (Simple Prefix Sum)[9]
 
 ### Day 3: Simple Sorting, Hashing, Anagrams
 
-- [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) (Sort vs Hash Count)[10][11]
-- [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) (Set Intersection)
-- [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (Two Pointers, String Manipulation)
+- [x] [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) (Sort vs Hash Count)[10][11]
+- [x] [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) (Set Intersection)
+- [x] [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (Two Pointers, String Manipulation)
 
 ### Day 4: Two-pointer Basics
 
