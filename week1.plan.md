@@ -20,9 +20,9 @@
 
 ### Day 4: Two-pointer Basics
 
-- [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) (Two Pointer)
-- [167. Two Sum II - Input Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) (Two Pointer + Array)
-- [344. Reverse String](https://leetcode.com/problems/reverse-string/) (Two Pointer + String)
+- [x] [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) (Two Pointer)
+- [x] [167. Two Sum II - Input Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) (Two Pointer + Array)
+- [x] [344. Reverse String](https://leetcode.com/problems/reverse-string/) (Two Pointer + String)
 
 ### Day 5: Best Time To Buy & Sell Stock Patterns
 
