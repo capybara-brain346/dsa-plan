@@ -26,9 +26,9 @@
 
 ### Day 5: Best Time To Buy & Sell Stock Patterns
 
-- [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)[12][13]
-- [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
-- [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) (Review, in context of price variations)
+- [x] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)[12][13]
+- [x] [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+- [x] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) (Review, in context of price variations)
 
 ### Day 6: Hashing & String Tricks
 
