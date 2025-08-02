@@ -32,9 +32,9 @@
 
 ### Day 6: Hashing & String Tricks
 
-- [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) (Hash Table)[14]
-- [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) (Hash Map)
-- [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
+- [x] [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) (Hash Table)[14]
+- [x] [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) (Hash Map)
+- [x] [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 
 ### Day 7: Review and Mixed Practice
 
