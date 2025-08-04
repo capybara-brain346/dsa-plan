@@ -38,9 +38,9 @@
 
 ### Day 7: Review and Mixed Practice
 
-- [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) (Prefix Sum)[9][8]
-- [15. 3Sum](https://leetcode.com/problems/3sum/) (Sorting + Two Pointer)
-- [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (Repetition to deepen string practice)
+- [x] [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) (Prefix Sum)[9][8]
+- [x] [15. 3Sum](https://leetcode.com/problems/3sum/) (Sorting + Two Pointer)
+- [x] [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (Repetition to deepen string practice)
 
 ### Tips:
 
